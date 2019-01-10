@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Agenda</string>
+    <string name="cadastrar_contato">CADASTRAR CONTATO</string>
+    <string name="nome">Nome</string>
+    <string name="endereco">Endereço</string>
+    <string name="telefone">Telefone</string>
+    <string name="site">Site</string>
+    <string name="avaliacao">Avaliação</string>
+    <string name="salvar_contato">Salvar contato</string>
+</resources>
